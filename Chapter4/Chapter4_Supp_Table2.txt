@@ -1,0 +1,97 @@
+circRNA	miRNA	Binding Sites	Match Score	Free Energy	miRNA Alignment Start	miRNA Alignment End	circRNA Alignment Start	circRNA Alignment End	Alignment Length	circRNA-miRNA % Identity	miRNA-circRNA % Identity	Expression Filter	miRNA Conserved with Mouse	miRNA Conserved with Human
+circArid1a	rno-miR-1199-5p	2	144	-33.28	2	18	161	181	17	70.59%	88.24%	Fail; Not in either dataset	Yes	No
+circArid1a	rno-miR-1199-5p	2	152	-20.37	2	19	367	388	19	73.68%	78.95%	Fail; Not in either dataset	Yes	No
+circArid1a	rno-miR-1224	2	153	-20.83	2	18	274	294	16	75.00%	75.00%	Pass	Yes	Yes
+circArid1a	rno-miR-1224	2	151	-29.76	3	20	389	409	17	76.47%	88.24%	Pass	Yes	Yes
+circMapkap1	rno-miR-134-3p	1	150	-23.8	2	11	43	64	9	100.00%	100.00%	Pass	Yes	Yes
+circHomer1	rno-miR-143-3p	2	152	-13.39	2	19	264	284	17	76.47%	76.47%	Pass	Yes	Yes
+circHomer1	rno-miR-143-3p	2	144	-17.97	2	21	86	107	19	68.42%	89.47%	Pass	Yes	Yes
+circHomer1	rno-miR-145-3p	2	156	-20.42	2	19	364	388	21	76.19%	76.19%	Pass	No	Yes
+circHomer1	rno-miR-145-3p	2	143	-17.78	2	20	293	313	18	66.67%	77.78%	Pass	No	Yes
+circHomer1	rno-miR-149-5p	1	159	-20.4	2	22	474	495	20	70.00%	80.00%	Fail; Not in either dataset	Yes	Yes
+circHomer1	rno-miR-151-3p	2	156	-21.14	2	17	126	146	15	80.00%	80.00%	Pass	Yes	Yes
+circHomer1	rno-miR-151-3p	2	144	-21.41	3	18	389	411	17	76.47%	88.24%	Pass	Yes	Yes
+circMapkap1	rno-miR-181b-2-3p	1	161	-20.54	2	15	113	135	14	92.86%	92.86%	Fail	Yes	Yes
+circArid1a	rno-miR-1843a-5p	3	141	-19.61	2	10	399	419	8	87.50%	100.00%	Pass	Yes	Yes
+circArid1a	rno-miR-1843a-5p	3	140	-24.55	2	19	70	89	17	82.35%	88.24%	Pass	Yes	Yes
+circArid1a	rno-miR-1843a-5p	3	144	-18.65	3	20	760	780	18	83.33%	83.33%	Pass	Yes	Yes
+circArid1a	rno-miR-1843b-5p	2	147	-24.72	3	18	67	88	15	86.67%	93.33%	Fail; Not in either dataset	Yes	No
+circArid1a	rno-miR-1843b-5p	2	147	-19.34	2	21	705	728	20	65.00%	70.00%	Fail; Not in either dataset	Yes	No
+circArid1a	rno-miR-18a-3p	1	158	-21.56	2	19	104	124	17	70.59%	82.35%	Pass	Yes	Yes
+circArid1a	rno-miR-196b-5p	1	152	-22.44	2	21	620	641	19	68.42%	84.21%	Fail	Yes	Yes
+circArid1a	rno-miR-204-3p	2	147	-22.11	2	13	626	649	13	84.62%	84.62%	Fail	Yes	Yes
+circArid1a	rno-miR-204-3p	2	157	-29.2	2	19	417	439	18	77.78%	77.78%	Fail	Yes	Yes
+circHomer1	rno-miR-207	1	165	-26.68	2	22	333	355	20	75.00%	75.00%	Pass	No	No
+circHomer1	rno-miR-212-5p	1	165	-24	2	20	463	485	18	83.33%	83.33%	Pass	Yes	Yes
+circMapkap1	rno-miR-298-5p	1	165	-27.1	2	20	503	524	18	77.78%	88.89%	Pass	Yes	Yes
+circArid1a	rno-miR-3064-5p	4	147	-21.57	2	18	552	570	16	81.25%	87.50%	Fail; Not in either dataset	No	Yes
+circArid1a	rno-miR-3064-5p	4	149	-25.14	2	19	358	378	18	72.22%	88.89%	Fail; Not in either dataset	No	Yes
+circArid1a	rno-miR-3064-5p	4	141	-18.23	2	19	412	432	18	66.67%	83.33%	Fail; Not in either dataset	No	Yes
+circArid1a	rno-miR-3064-5p	4	146	-20.55	3	19	479	498	16	81.25%	81.25%	Fail; Not in either dataset	No	Yes
+circArid1a	rno-miR-30c-1-3p	1	158	-26.52	2	15	570	591	13	84.62%	92.31%	Pass	Yes	Yes
+circArid1a	rno-miR-326-3p	2	140	-12.83	2	9	487	507	7	100.00%	100.00%	Pass	Yes	Yes
+circArid1a	rno-miR-326-3p	2	150	-25.92	2	20	162	183	19	73.68%	84.21%	Pass	Yes	Yes
+circArid1a	rno-miR-328a-3p	1	152	-24.06	2	19	244	264	17	76.47%	76.47%	Pass	Yes	Yes
+circArid1a	rno-miR-328b-3p	1	150	-23.31	2	17	248	264	15	80.00%	80.00%	Pass	Yes	Yes
+circArid1a	rno-miR-330-5p	3	150	-17.95	2	16	485	507	15	80.00%	80.00%	Pass	Yes	Yes
+circArid1a	rno-miR-330-5p	3	148	-27.71	2	19	163	183	17	70.59%	94.12%	Pass	Yes	Yes
+circArid1a	rno-miR-330-5p	3	151	-25.62	2	21	98	121	21	66.67%	85.71%	Pass	Yes	Yes
+circHomer1	rno-miR-330-5p	1	150	-22.69	2	20	457	479	19	73.68%	84.21%	Pass	Yes	Yes
+circMapkap1	rno-miR-330-5p	2	142	-23.87	2	19	44	65	17	82.35%	82.35%	Pass	Yes	Yes
+circMapkap1	rno-miR-330-5p	2	142	-19.09	2	19	166	187	17	64.71%	82.35%	Pass	Yes	Yes
+circArid1a	rno-miR-342-5p	1	159	-21.59	2	21	480	502	20	75.00%	75.00%	Pass	Yes	Yes
+circMapkap1	rno-miR-345-3p	2	150	-21.63	2	19	215	236	17	58.82%	82.35%	Pass	No	No
+circMapkap1	rno-miR-345-3p	2	144	-20.33	2	18	458	480	17	76.47%	82.35%	Pass	No	No
+circMapkap1	rno-miR-349	1	165	-28.07	2	21	239	260	20	80.00%	85.00%	Pass	No	Yes
+circHomer1	rno-miR-34a-5p	1	155	-28.1	2	21	487	511	22	72.73%	81.82%	Pass	Yes	Yes
+circArid1a	rno-miR-3559-3p	1	163	-22.52	2	20	257	278	18	83.33%	88.89%	Pass	No	No
+circHomer1	rno-miR-3561-5p	1	158	-21.05	2	19	451	470	18	83.33%	83.33%	Pass	No	No
+circArid1a	rno-miR-3575	7	152	-17.89	2	14	312	331	14	85.71%	85.71%	Pass	No	Yes
+circArid1a	rno-miR-3575	7	143	-17.08	2	14	537	553	12	83.33%	83.33%	Pass	No	Yes
+circArid1a	rno-miR-3575	7	146	-18.47	2	15	464	481	13	76.92%	76.92%	Pass	No	Yes
+circArid1a	rno-miR-3575	7	156	-18.95	2	17	287	304	15	80.00%	80.00%	Pass	No	Yes
+circArid1a	rno-miR-3575	7	151	-18.55	2	17	634	652	16	75.00%	81.25%	Pass	No	Yes
+circArid1a	rno-miR-3575	7	150	-16.43	2	17	414	430	15	80.00%	80.00%	Pass	No	Yes
+circArid1a	rno-miR-3575	7	150	-21.6	2	17	579	595	15	80.00%	80.00%	Pass	No	Yes
+circHomer1	rno-miR-3577	1	153	-20.51	2	20	422	441	18	72.22%	77.78%	Pass	No	No
+circArid1a	rno-miR-370-3p	10	154	-26.88	2	15	575	596	13	76.92%	92.31%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	143	-26.46	3	16	461	482	13	84.62%	92.31%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	141	-25.66	3	20	282	305	19	78.95%	78.95%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	147	-23.25	2	21	238	260	20	60.00%	75.00%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	152	-28.2	3	21	434	455	18	77.78%	83.33%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	152	-27.34	3	21	533	554	18	77.78%	83.33%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	144	-23.53	3	21	353	374	18	66.67%	83.33%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	144	-24.12	3	21	548	569	18	72.22%	77.78%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	143	-28.01	3	21	407	431	21	71.43%	76.19%	Pass	Yes	Yes
+circArid1a	rno-miR-370-3p	10	140	-25.04	3	21	605	626	18	66.67%	77.78%	Pass	Yes	Yes
+circArid1a	rno-miR-377-5p	2	157	-18.89	2	18	542	563	16	75.00%	81.25%	Pass	Yes	Yes
+circArid1a	rno-miR-377-5p	2	144	-12.77	2	21	380	401	19	68.42%	73.68%	Pass	Yes	Yes
+circArid1a	rno-miR-409a-5p	1	152	-26.9	2	21	175	197	19	68.42%	84.21%	Pass	Yes	Yes
+circMapkap1	rno-miR-421-3p	1	150	-20.09	2	11	263	282	9	100.00%	100.00%	Pass	Yes	Yes
+circHomer1	rno-miR-449a-5p	1	164	-30.94	2	21	490	511	19	78.95%	89.47%	Pass	Yes	Yes
+circHomer1	rno-miR-449c-5p	1	156	-28.47	2	20	491	511	19	84.21%	89.47%	Pass	Yes	Yes
+circArid1a	rno-miR-485-5p	6	142	-27.05	2	15	178	199	13	76.92%	92.31%	Pass	Yes	Yes
+circArid1a	rno-miR-485-5p	6	153	-16.86	2	18	599	620	16	75.00%	75.00%	Pass	Yes	Yes
+circArid1a	rno-miR-485-5p	6	149	-20.45	2	18	341	362	16	75.00%	87.50%	Pass	Yes	Yes
+circArid1a	rno-miR-485-5p	6	149	-17.49	2	18	422	443	16	68.75%	75.00%	Pass	Yes	Yes
+circArid1a	rno-miR-485-5p	6	142	-22.1	2	19	248	269	17	82.35%	82.35%	Pass	Yes	Yes
+circArid1a	rno-miR-485-5p	6	155	-17.36	2	20	395	416	18	66.67%	77.78%	Pass	Yes	Yes
+circMapkap1	rno-miR-6314	2	161	-24.52	2	21	191	210	19	78.95%	78.95%	Fail	No	No
+circMapkap1	rno-miR-6314	2	140	-16.86	2	9	497	518	7	100.00%	100.00%	Fail	No	No
+circArid1a	rno-miR-6328	1	154	-22.6	2	15	578	598	13	84.62%	84.62%	Pass	No	No
+circArid1a	rno-miR-6333	3	140	-13.66	2	9	420	442	7	100.00%	100.00%	Fail	No	No
+circArid1a	rno-miR-6333	3	154	-15.23	2	15	339	361	13	84.62%	84.62%	Fail	No	No
+circArid1a	rno-miR-6333	3	150	-19.2	2	15	597	619	13	76.92%	84.62%	Fail	No	No
+circArid1a	rno-miR-672-5p	3	157	-22.77	2	21	541	563	20	75.00%	80.00%	Pass	Yes	Yes
+circArid1a	rno-miR-672-5p	3	142	-22.19	2	22	600	620	20	70.00%	75.00%	Pass	Yes	Yes
+circArid1a	rno-miR-672-5p	3	140	-20.97	2	22	378	401	21	66.67%	71.43%	Pass	Yes	Yes
+circArid1a	rno-miR-702-5p	1	162	-34.21	2	19	503	523	17	82.35%	94.12%	Pass	Yes	Yes
+circArid1a	rno-miR-760-3p	1	157	-23.7	2	18	490	509	16	75.00%	81.25%	Pass	Yes	Yes
+circHomer1	rno-miR-760-3p	1	167	-27.48	2	17	461	481	16	87.50%	93.75%	Pass	Yes	Yes
+circHomer1	rno-miR-873-3p	2	141	-12.92	2	16	126	145	14	71.43%	78.57%	Pass	Yes	Yes
+circHomer1	rno-miR-873-3p	2	152	-18.94	2	17	390	410	15	73.33%	80.00%	Pass	Yes	Yes
+circArid1a	rno-miR-93-3p	5	140	-13.09	2	9	351	373	7	100.00%	100.00%	Pass	Yes	Yes
+circArid1a	rno-miR-93-3p	5	141	-12.93	2	14	432	454	12	75.00%	75.00%	Pass	Yes	Yes
+circArid1a	rno-miR-93-3p	5	159	-20.45	2	18	235	259	18	83.33%	83.33%	Pass	Yes	Yes
+circArid1a	rno-miR-93-3p	5	152	-17.19	2	18	602	625	17	76.47%	76.47%	Pass	Yes	Yes
+circArid1a	rno-miR-93-3p	5	156	-15.57	2	21	546	568	19	68.42%	73.68%	Pass	Yes	Yes
