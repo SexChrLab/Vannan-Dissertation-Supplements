@@ -1,0 +1,4 @@
+Study	Total Genes Before Filtering	Total Genes After Filtering	Mean Dispersion	Median Dispersion	Mean Fold Change (All Genes)	Median Fold Change (All Genes)	Mean Fold Change (P < 0.05)	Median Fold Change (P < 0.05)
+Carpenter	55414	10026	0.0151	0.0090	1.06	1.04	1.17	1.13
+Walker	55414	9948	0.0278	0.0199	1.08	1.06	2.48	1.59
+Powell	30560	7104	0.0557	0.0412	1.29	1.15	1.39	1.32
